@@ -1,4 +1,3 @@
-// src/components/GreetingForm.jsx
 import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchGreeting, clearGreeting } from "../store/slice/greetSlice";
